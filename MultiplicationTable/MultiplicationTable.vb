@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2022
 'Multiplication Table
-'
+'https://github.com/SmitFall/MultiplicationTable
 
 Option Explicit On
 Option Strict On
