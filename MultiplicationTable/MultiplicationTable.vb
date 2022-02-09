@@ -1,5 +1,8 @@
 ﻿'Fallon Smith
 'RCET0265
+'Spring 2022
+'Multiplication Table
+'
 
 Option Explicit On
 Option Strict On
@@ -20,7 +23,7 @@ Module MultiplicationTable
                 wholeNumber = False
             End Try
         Loop
-
+        'Keeps promting user until they type a number
 
         Console.WriteLine("Enjoy your " & tableDimensions & " X " & tableDimensions &
                                   " multiplication table")
